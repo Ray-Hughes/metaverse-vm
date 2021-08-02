@@ -31,7 +31,7 @@ brew install cmake pkg-config openssl git llvm
 
 # Build the corresponding binary file:
 ```
-cd Hyperspace
+cd nyat-vm
 cargo build --release
 ```
 The first build takes a long time, as it compiles all the necessary libraries.
