@@ -3,7 +3,7 @@ Hyperspace Mainnet Node - Stage 1 - PoS Consensus Mode - (Hybrid PoW/Pos and Str
 
 First of all you have to get the code:
 ```
-git clone https://github.com/mvs-org/hyperspace
+git clone https://github.com/Ray-Hughes/metaverse-vm/nyat
 ```
 
 # Setting up enviroment
